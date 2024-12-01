@@ -6,7 +6,7 @@ This project aims to automate the classification of research papers into predefi
 
 # **Notebooks**
 
-## **_Augmentation.ipynb_**
+Augmentation.ipynb
 
  Description: Demonstrates data augmentation techniques specifically designed for textual data, enhancing the diversity of our training dataset to improve model robustness against varied linguistic expressions found in research papers.
 
