@@ -33,6 +33,6 @@ Description: Implements a custom loss function that leverages a weight tensor to
 
 # Other Files
 
-## README.md
+ README.md
 
 Provides an overview of the project, including detailed descriptions of all included files and instructions for their use.
