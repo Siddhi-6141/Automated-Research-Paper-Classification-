@@ -10,29 +10,29 @@ Augmentation.ipynb
 
  Description: Demonstrates data augmentation techniques specifically designed for textual data, enhancing the diversity of our training dataset to improve model robustness against varied linguistic expressions found in research papers.
 
-## **_Data_preprocessing.ipynb_**
+Data_preprocessing.ipynb
 
 Description: Outlines the preprocessing steps applied to the dataset of research papers, including text cleaning, tokenization, and normalization, preparing data for efficient model training.
 
-## **_bilstm_scibert.ipynb_**
+bilstm_scibert.ipynb
 
 Description: Combines the capabilities of SciBERT, an NLP model pre-trained on scientific literature, with BiLSTM layers to capture both the contextual and 
 sequential nuances in research papers, aiming at improving classification accuracy.
 
-## **_linear_layer_after_scibert.ipynb_**
+linear_layer_after_scibert.ipynb
 
 Description: Explores the impact of adding linear layers following SciBERT embeddings, fine-tuning the model to tailor it to the specific classification needs of our dataset.
 
-## **_main_model_training.ipynb_**
+main_model_training.ipynb
 
 Description: The core notebook that orchestrates the model training process, from loading preprocessed data to training and validating the model, culminating in the evaluation of its performance on a test set.
 
-## **_weight_tensor_custom_loss.ipynb_**
+weight_tensor_custom_loss.ipynb
 
 Description: Implements a custom loss function that leverages a weight tensor to address class imbalance in the dataset, ensuring a fair and effective learning process.
 
-# **Other Files**
+# Other Files
 
-## _README.md_
+## **README.md**
 
 Provides an overview of the project, including detailed descriptions of all included files and instructions for their use.
