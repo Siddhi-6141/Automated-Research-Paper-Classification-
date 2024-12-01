@@ -1,6 +1,6 @@
 # **Overview**
 
-## This project aims to automate the classification of research papers into predefined categories using natural language processing (NLP) techniques. It leverages state-of-the-art models like SciBERT, augmented with BiLSTM layers, and custom data preprocessing and augmentation strategies to enhance model performance. This solution can significantly aid academic database management, systematic review processes, and the categorization of scholarly articles for researchers and publishers.
+This project aims to automate the classification of research papers into predefined categories using natural language processing (NLP) techniques. It leverages state-of-the-art models like SciBERT, augmented with BiLSTM layers, and custom data preprocessing and augmentation strategies to enhance model performance. This solution can significantly aid academic database management, systematic review processes, and the categorization of scholarly articles for researchers and publishers.
 
 # **Files Description**
 
