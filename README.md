@@ -31,5 +31,7 @@ weight_tensor_custom_loss.ipynb
 Description: Implements a custom loss function that leverages a weight tensor to address class imbalance in the dataset, ensuring a fair and effective learning process.
 
 Other Files
+
 README.md
+
 Provides an overview of the project, including detailed descriptions of all included files and instructions for their use.
